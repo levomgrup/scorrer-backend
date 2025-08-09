@@ -1,0 +1,1 @@
+"Bağlantı yapma dosyasıdır"
